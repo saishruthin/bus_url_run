@@ -1,0 +1,24 @@
+Swecha was founded in 2005 as an organisation to support the Swecha project, it is now a vibrant community of software users, students, academicians and software professionals/developers determined to provide quality software built on the guidelines of free software development model.
+
+Swecha aims at providing global software solutions to the local people with the Free Software development model by working together with the community of developers and users all over. The prime objective of Swecha OS is to provide a complete computing solution to a population that speaks and understands only Telugu.
+
+The project aims at bridging the gap between the computer technology that exists predominantly in English and the Telugu-speaking community of India. The project also aims at providing a framework for development and maintenance of Free Software projects taken up by the community.
+
+Swecha is a project aimed at coming out with a localised version of GNU/Linux in Telugu. The target users of the distro being the entire community that is a prey of the digital divide. This project helps in coming out with a solution for the digital divide and allows the possibility of digital unite becoming a reality.
+
+Commencement of the Project:
+
+The objective being clear the project had a beginning with the preparation of the task list. The prime area of work was having a Telugu font under GNU GPL. There was not any font available then, it was essential that we had to work out our own font.
+
+The font work:
+
+Beginning with the font work was an interesting task, complete software necessary for developing fonts was not available in GNU/Linux. Fontforge the current software then called as pfaedit was the only choice. Fontforge was still in the developing stage, we had two choices for the completion of the work. First, to develop a font using proprietary software and announce it as a font released under GPL. Second, work in co-ordination with the developers of Fontforge and discuss with them to get the necessary features ( popular method that is followed by the entire community). We preferred the way community works and understood the real sense of team work devoid of time and space. We in-fact could learn this new method of working in co-ordination with people across the globe working with a common motive. Completion of one font that suits the total requirements accelerated the pace of the project.
+
+Preparation of the glossary:
+
+With the completion of the font, a glossary on which there can be a consensus was the immediate need to proceed with localisation. The aim of the glossary was to have a homogeneous set of vocabulary. Preparation of the glossary was done with the help of friends working as journalists. The translations were done based on the dictionaries provided by Telugu Academy. The target users of the localised versions being the people deprived as a result of digital divide, the vocabulary chosen was also targeted at their usage. Translation of some of the words was a bit critical, we decided to go ahead by having feedback from the real users across the state.
+
+Translation of files: The tanslation of files is being done with a co-ordination from people who geographically at different places. There is a team being set up to srutinise the translations and submit them to the repository.
+
+The first release :
+With the completion of the glossary the entire process of translation was geared up. We chose the basic applications needed by a user and translated the applications along with the basic user interface, and the test release was done on 08-02-05 by the Honorable Chief Minister of AP Dr Y.S.Rajasekhara Reddy in the presence of the Free Software Foundation founder and chairman Richard M Stallman.
